@@ -11,4 +11,4 @@ This is an example of the map generated:
 
 The code to generate the sky map and the corresponding data, come from the [awesome project](https://github.com/eleanorlutz/western_constellations_atlas_of_space) by Eleanor Lutz.  The actual ephemeris of JWST are obtained from the [Horizons information system of NASA/JPL](https://ssd.jpl.nasa.gov/horizons) and it is retrieved using `astroquery`.
 
-The rest is mine.
+The rest of the code, including bad practices and bugs, are mine.
