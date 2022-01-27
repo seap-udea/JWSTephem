@@ -1,7 +1,8 @@
 # JWSTephem
 Ephemeris of the JWST and data to spot it in the sky
-By Jorge I. Zuluaga, U. de A.
-----------------------------------
+
+Jorge I. Zuluaga, U. de A.
+
 
 Use this Jupyter notebook to generate the ephemeris and a map of the sky with the location of JWST.
 
